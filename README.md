@@ -3,7 +3,7 @@
 
 > "AI doesn’t have to be massive. It can be local, soulful, and deeply human."
 
-🎯 **Live Demo → [tagorex.streamlit.app](https://tagorexgemini.streamlit.app)**
+🎯 **Live Demo → [tagorexgemini.streamlit.app](https://tagorexgemini.streamlit.app)**
 
 ---
 
